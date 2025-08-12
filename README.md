@@ -79,4 +79,4 @@ I am open to suggestions and plan to continue developing this platform.
 
 ### 🧑‍💻 Isa Shaikh - [isashaikh2005@gmail.com](mailto:isashaikh2005@gmail.com)
 
-### 🔗Project Link: [https://github.com/IsaShaikh/smartedu-platform](https://github.com/IsaShaikh/Bank-Account-CLI)
+### 🔗Project Link: [Bank-Account-Command-Line-App](https://github.com/IsaShaikh/Bank-Account-CLI)
